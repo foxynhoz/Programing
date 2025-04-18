@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1744826557 source:y:\programing\minecraft_calc\main.c
+
+1744826737 source:y:\programing\minecraft_calc\untitled1.c
+	<stdio.h>
+	<math.h>
+

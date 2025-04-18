@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1744503054 source:y:\programing\exerciciosfixacao\atividade 2.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1744499896 source:y:\programing\exerciciosfixacao\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1744503050 source:y:\programing\exerciciosfixacao\atividade 3.c
+	<stdio.h>
+	<stdlib.h>
+
+1744504435 source:y:\programing\exerciciosfixacao\atividade 4.c
+	<stdio.h>
+	<stdlib.h>
+
+1744614087 source:y:\programing\exerciciosfixacao\atividade 5.c
+	<stdio.h>
+	<stdlib.h>
+
+1744504425 source:y:\programing\exerciciosfixacao\saldobancario_test.c
+	<stdio.h>
+	<stdlib.h>
+
+1744615039 source:y:\programing\exerciciosfixacao\atividade 6.c
+	<stdio.h>
+	<stdlib.h>
+
+1744615355 source:y:\programing\exerciciosfixacao\atividade 7.c
+	<stdio.h>
+	<stdlib.h>
+
+1744616021 source:y:\programing\exerciciosfixacao\atividade 8.c
+	<stdio.h>
+	<stdlib.h>
+
+1744616597 source:y:\programing\exerciciosfixacao\atividade 9.c
+	<stdio.h>
+	<stdlib.h>
+
+1744616928 source:y:\programing\exerciciosfixacao\atividade 10.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1744617130 source:y:\programing\exerciciosfixacao\atividade 11.c
+	<stdio.h>
+	<stdlib.h>
+
+1744617502 source:y:\programing\exerciciosfixacao\atividade 12.c
+	<stdio.h>
+	<stdlib.h>
+
+1744617974 source:y:\programing\exerciciosfixacao\atividade 13.c
+	<stdio.h>
+	<stdlib.h>
+
+1744618306 source:y:\programing\exerciciosfixacao\atividade 14.c
+	<stdio.h>
+	<stdlib.h>
+
+1744618464 source:y:\programing\exerciciosfixacao\atividade 15.c
+	<stdio.h>
+	<stdlib.h>
+
+1744618524 source:y:\programing\exerciciosfixacao\comun_1.c
+	<stdio.h>
+	<stdlib.h>
+
