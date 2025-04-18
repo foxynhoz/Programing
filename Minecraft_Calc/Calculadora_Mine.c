@@ -9,7 +9,7 @@ char sinal;
 printf("Digite o primeiro numero:\n");
 scanf("%f",&a);
 
-printf("Digite o sinal da equaÁ„o: (+, -, , /) \n");
+printf("Digite o sinal da equa√ß√£o: (+, -, , /) \n");
 getchar();
 scanf("%c",&sinal);
 
@@ -22,11 +22,11 @@ printf("A soma dos dois numeros e:%.2f", a);
 }
 else if(sinal == '-'){
  a=a-b;
-printf("A subtraÁ„o dos dois numeros e:%.2f",a);
+printf("A subtra√ß√£o dos dois numeros e:%.2f",a);
 }
 else if(sinal == '*'){
 a=a*b;
-printf("A multiplicaÁ„o dos dois numeros e:%.2f",a);
+printf("A multiplica√ß√£o dos dois numeros e:%.2f",a);
 }
 else if(sinal == '/'){
   if(b == 0){
@@ -34,7 +34,7 @@ printf("Impossivel dividir por 0");
  return 0;
 }
 a=a/b;
-printf("A divis„o dos dois numeros e:%.2f",a);
+printf("A divis√£o dos dois numeros e:%.2f",a);
 
 return 0;
 }
