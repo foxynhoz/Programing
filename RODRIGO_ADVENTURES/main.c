@@ -30,6 +30,7 @@ int main(){
 
     int escolha;
 
+    printf("RODRIGO - O TIMIDO\nTHE GAME\nUma historia confusa de amor (ou nao)\n\n\n\n");
 
     printf("Rodrigo esta andando no corredor do SENAI\nquando uma mulher bonita veio em sua direcao\n\nO que ele faz?\n\n");
     printf("1 - Ele tenta cumprimenta-la\n2 - Ele tenta dar uma cantada\n3 - Ele tenta se esconder\n4 - Ele tenta segui-la\n\n>> ");
@@ -284,7 +285,7 @@ int main(){
 
     printf("Apos a queda na frente da bela garota, Rodrigo imediatamente tenta se recompor,\nmas acaba apoiando nela, assim derrubando os dois juntos.\n");
     printf("=============================================================================\n");
-    printf("O que o Rodrigo devera a fazer a seguir com essa situacao constrangedora?\nEscolha uma dessas quatro opï¿½oes abaixo:\n\n");
+    printf("O que o Rodrigo devera a fazer a seguir com essa situacao constrangedora?\nEscolha uma dessas quatro opcoes abaixo:\n\n");
 
     printf("1.Pedir desculpas\n2.Ajudar ela\n3.Ignorar ela\n4.Ir embora\n\n");
 
@@ -312,7 +313,7 @@ int main(){
 
     printf("Rodrigo com muita vergonha nao sabendo lidar com seus sentimenots, fica ali\nparado na frente da garota com muita vergonha. Ela comeca a estranhar.\n");
     printf("=============================================================================\n");
-    printf("O que o Rodrigo devera a fazer a seguir com essa situacao constrangedora?\nEscolha uma dessas quatro opï¿½oes abaixo:\n\n");
+    printf("O que o Rodrigo devera a fazer a seguir com essa situacao constrangedora?\nEscolha uma dessas quatro opçoes abaixo:\n\n");
 
     printf("1.Bater no peito e ter coragem de falar com ela\n2.Ficam ali parados mesmo\n3.Sair andando de fininho\n4.Comeca a ter crise de ansiedade\n\n");
 
@@ -341,7 +342,7 @@ int main(){
 
     printf("Rodrigo com muita vergonha nao sabendo lidar com seus sentimenots, fica ali\nparado na frente da garota com muita vergonha. Ela comeca a estranhar.\n");
     printf("=============================================================================\n");
-    printf("O que o Rodrigo devera a fazer a seguir com essa situacao constrangedora?\nEscolha uma dessas quatro opï¿½oes abaixo:\n\n");
+    printf("O que o Rodrigo devera a fazer a seguir com essa situacao constrangedora?\nEscolha uma dessas quatro opçoes abaixo:\n\n");
 
     printf("1.Bater no peito e ter coragem de falar com ela\n2.Ficam ali parados mesmo\n3.Sair andando de fininho\n4.Comeca a ter crise de ansiedade\n\n");
 
@@ -371,7 +372,7 @@ int main(){
 
     printf("Rodrigo com muita adrenalina corre para o banheiro desesperado para se esconder de tanta ansiedade, mas acaba que ele entra no banheiro errado, acabando\nentrando no banheiro feminino.\n");
     printf("=============================================================================\n");
-    printf("O que o Rodrigo devera a fazer a seguir com essas sircunstancias extremas?\nEscolha uma dessas quatro opï¿½oes abaixo:\n\n");
+    printf("O que o Rodrigo devera a fazer a seguir com essas sircunstancias extremas?\nEscolha uma dessas quatro opçoes abaixo:\n\n");
 
     printf("1.Entrando normalmente se achando como uma delas\n2.Sai correndo no banheiro\n3.Diz que se considera como uma mulher tambem\n4.Pula pela janela\n\n");
 
@@ -460,7 +461,7 @@ int main(){
             scanf("%d",&escolha);
 
             if (escolha ==1){
-                printf("ele leva um balde de agua gelada onde ele fica preso com o balde na cabeï¿½a e morre\n");
+                printf("ele leva um balde de agua gelada onde ele fica preso com o balde na cabeça e morre\n");
             }
 
             if (escolha ==2){
