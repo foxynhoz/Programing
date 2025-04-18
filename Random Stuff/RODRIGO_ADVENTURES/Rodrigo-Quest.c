@@ -313,7 +313,7 @@ int main(){
 
     printf("Rodrigo com muita vergonha nao sabendo lidar com seus sentimenots, fica ali\nparado na frente da garota com muita vergonha. Ela comeca a estranhar.\n");
     printf("=============================================================================\n");
-    printf("O que o Rodrigo devera a fazer a seguir com essa situacao constrangedora?\nEscolha uma dessas quatro opçoes abaixo:\n\n");
+    printf("O que o Rodrigo devera a fazer a seguir com essa situacao constrangedora?\nEscolha uma dessas quatro opÃ§oes abaixo:\n\n");
 
     printf("1.Bater no peito e ter coragem de falar com ela\n2.Ficam ali parados mesmo\n3.Sair andando de fininho\n4.Comeca a ter crise de ansiedade\n\n");
 
@@ -342,7 +342,7 @@ int main(){
 
     printf("Rodrigo com muita vergonha nao sabendo lidar com seus sentimenots, fica ali\nparado na frente da garota com muita vergonha. Ela comeca a estranhar.\n");
     printf("=============================================================================\n");
-    printf("O que o Rodrigo devera a fazer a seguir com essa situacao constrangedora?\nEscolha uma dessas quatro opçoes abaixo:\n\n");
+    printf("O que o Rodrigo devera a fazer a seguir com essa situacao constrangedora?\nEscolha uma dessas quatro opÃ§oes abaixo:\n\n");
 
     printf("1.Bater no peito e ter coragem de falar com ela\n2.Ficam ali parados mesmo\n3.Sair andando de fininho\n4.Comeca a ter crise de ansiedade\n\n");
 
@@ -372,7 +372,7 @@ int main(){
 
     printf("Rodrigo com muita adrenalina corre para o banheiro desesperado para se esconder de tanta ansiedade, mas acaba que ele entra no banheiro errado, acabando\nentrando no banheiro feminino.\n");
     printf("=============================================================================\n");
-    printf("O que o Rodrigo devera a fazer a seguir com essas sircunstancias extremas?\nEscolha uma dessas quatro opçoes abaixo:\n\n");
+    printf("O que o Rodrigo devera a fazer a seguir com essas sircunstancias extremas?\nEscolha uma dessas quatro opÃ§oes abaixo:\n\n");
 
     printf("1.Entrando normalmente se achando como uma delas\n2.Sai correndo no banheiro\n3.Diz que se considera como uma mulher tambem\n4.Pula pela janela\n\n");
 
@@ -461,7 +461,7 @@ int main(){
             scanf("%d",&escolha);
 
             if (escolha ==1){
-                printf("ele leva um balde de agua gelada onde ele fica preso com o balde na cabeça e morre\n");
+                printf("ele leva um balde de agua gelada onde ele fica preso com o balde na cabeÃ§a e morre\n");
             }
 
             if (escolha ==2){
