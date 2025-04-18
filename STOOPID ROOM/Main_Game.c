@@ -1,10 +1,11 @@
 #include <stdio.h>
 #include <unistd.h>
 #include <stdbool.h>
-
-int main() {
 //Global_Variable
     int language;
+
+
+int main() {
  //Variables
     int code;
     bool gameOver = false;
@@ -172,8 +173,7 @@ while (gameOver == false) {
 }
 }
 if (language == 1) {
-
-        printf("+++++STOOPID ROOM+++\n++++++THE GAME++++++\n\nType the corresponding number to execute the desired action.\n\n");
+  printf("+++++STOOPID ROOM+++\n++++++THE GAME++++++\n\nType the corresponding number to execute the desired action.\n\n");
 
         sleep(2);
 
@@ -318,4 +318,5 @@ if (language == 1) {
         }
     }
     }
+
 }
