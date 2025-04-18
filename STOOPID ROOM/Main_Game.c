@@ -456,13 +456,6 @@ if (language == 1) {
                 }
             if (choice == 1) {
                 if (isWindowOpen == true) {
-                    printf("\n╔══╝---╚══◙◙════╗\n"
-                 "║                 ║\n"
-                 "║⑊              〢║\n"
-                 "║⑊ ◀            〢║\n"
-                 "║⑊              〢║\n"
-                 "║                 ║\n"
-                 "╚════𝄃𝄃𝄀═════╝\n");
                     printf("You inspect the stains\nThey were painted there with blood\nbut you can clearly distinguish\ntwo characters written\n\nA4\n\nWhat do you do?\n\n1 - Go back\n\n>> ");
                         scanf("%d", &choice);
                         if (choice == 1) {
