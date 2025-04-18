@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1744957240 source:y:\programing\stoopid room\main_game.c
+	<stdio.h>
+	<unistd.h>
+	<stdbool.h>
+
+1744957296 source:y:\programing\stoopid room\functions.c
+	<stdio.h>
+	<unistd.h>
+	<stdbool.h>
+

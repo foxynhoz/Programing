@@ -2,8 +2,6 @@
 #include <unistd.h>
 #include <stdbool.h>
 
-int main()
-{
 //Variables
     int code;
     bool gameOver = false;
@@ -12,6 +10,9 @@ int main()
     bool isWindowOpen = false;
     bool isVaultOpen = false;
     bool hasKey = false;
+
+int main()
+{
 
     printf("+++++STOOPID ROOM+++\n++++++THE GAME++++++\n\nDigite o numero correspondente a opcao desejada para executar a ação\n\n");
         sleep(2);
