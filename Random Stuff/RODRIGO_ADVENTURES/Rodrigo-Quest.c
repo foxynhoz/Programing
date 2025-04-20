@@ -1,22 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*
-DANIEL +
-    BRUNO +
-        LORRANS +
-        & HIGOR +
-    GUSTAVIN +
-        GABRIEL M + &
-        BRUNO +
-    GABRIELZIN +
-        RODRIGO +
-    GUSTAVO NUNES +
-        CRISTIANO + &
-        ALLAN +
-
-*/
-
 int escolha;
 
 int codigoBruno();
@@ -175,7 +159,6 @@ int codigoBruno(){
             }
         }
 }
-
 int codigoGustavin(){
     printf("\n1_Seu pai e padero? \n2_Voce trabalha na Horta? \n3_Voce vem sempre aqui? \n4_Voce come racao? \n");
         printf("\nDigite sua escolha: ");
@@ -279,7 +262,6 @@ int codigoGustavin(){
         }
 
 }
-
 int codigoGabrielzin(){
     printf("Rodrigo escondeu da menina \no que acontece em seguida\n\n");
 
@@ -401,7 +383,6 @@ int codigoGabrielzin(){
         }
     }
 }
-
 int codigoGustavo(){
     printf("1.Ele segue ela ate a porta do banheiro\n");
     printf("2.Ele segue ela nas redes sociais\n");
