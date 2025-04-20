@@ -161,106 +161,102 @@ int codigoBruno(){
 }
 int codigoGustavin(){
     printf("\n1_Seu pai e padero? \n2_Voce trabalha na Horta? \n3_Voce vem sempre aqui? \n4_Voce come racao? \n");
-        printf("\nDigite sua escolha: ");
-        scanf("%d", &escolha);
+    printf("\nDigite sua escolha: ");
+    scanf("%d", &escolha);
 
-        //CODIGO DO GABRIEL M
+    //CODIGO DO GABRIEL M
+    if (escolha == 1){
+        printf("nao_disse ela\nrodrigo porque voce eh um sonho\n\n escolha o que ela deve fazer:\n\n1_ela gosta da cantanda e pergunta seu nome\n2_ela odeia a cantada\n3_ela ignora ele e finge que nao ouviu nada\n4_ela pergunta se ele passa fome\n");
+
+        scanf("%d",&escolha);
+
+        if (escolha ==1){
+            printf("eles trocam assunto e se cohecem melhor");
+            return 0;
+        }
+        if (escolha == 2){
+            printf("simplesmente xinga ele por uma cantada");
+            return 0;
+        }
+        if (escolha ==3){
+            printf("ele vai embora correndo por ser ignorada e tropeca e cai");
+            return 0;
+        }
+        if (escolha ==4){
+            printf("ela oferece um salgado pra ele, pois parecia estar sem comer");
+            return 0;
+        }
+    }
+    //CODIGO DO GABRIEL M
+    if (escolha == 2){
+        printf("nao_disse ela\nrodrigo porque voce fez meu pepino crescer\n\n escolha o que ela deve fazer:\n\n1_ela gosta da cantanda\n2_ela odeia a cantada\n3_ela ignora ele e finge que nao ouviu nada\n4_ela acha que ele tem problemas mentais\n");
+
+        scanf("%d",&escolha);
+
+        if (escolha ==1){
+            printf("por algum milagre do destino ela gosta da pessima piada e pede ele em namoro");
+            return 0;
+        }
+        if (escolha == 2){
+            printf("ela acha a cantada uma bosta e chama o irmao dela pra te dar uma surra");
+            return 0;
+        }
+        if (escolha ==3){
+            printf("ela ignora ele e apenas o olha com pena");
+            return 0;
+        }
+
+        if (escolha ==4){
+            printf("ela te acha maluco e chama a policia para te prender por assedio");
+            return 0;
+        }
+    }
+    //CODIGO BRUNO 2
+    if (escolha == 3){
+        printf("aqui onde_disse ela\rodrigo no senai\n\n escolha o que ela deve fazer:\n\n1_pisar no pe dele\n2_rir da cara dele\n3_da um soco nele\n4_da uma chance a ele\n");
+
+        scanf("%d",&escolha);
+
         if (escolha == 1){
-            printf("nao_disse ela\nrodrigo porque voce eh um sonho\n\n escolha o que ela deve fazer:\n\n1_ela gosta da cantanda e pergunta seu nome\n2_ela odeia a cantada\n3_ela ignora ele e finge que nao ouviu nada\n4_ela pergunta se ele passa fome\n");
-
-            scanf("%d",&escolha);
-
-            if (escolha ==1){
-                printf("eles trocam assunto e se cohecem melhor");
-                return 0;
-            }
-            if (escolha == 2){
-                printf("simplesmente xinga ele por uma cantada");
-                return 0;
-            }
-            if (escolha ==3){
-                printf("ele vai embora correndo por ser ignorada e tropeca e cai");
-                return 0;
-            }
-            if (escolha ==4){
-                printf("ela oferece um salgado pra ele, pois parecia estar sem comer");
-                return 0;
-            }
-
+            printf("ela pisa no pe de rodrigo, rodrigo sai rolando de dor eterna");
+            return 0;
         }
-        //CODIGO DO GABRIEL M
-            if (escolha == 2){
-                printf("nao_disse ela\nrodrigo porque voce fez meu pepino crescer\n\n escolha o que ela deve fazer:\n\n1_ela gosta da cantanda\n2_ela odeia a cantada\n3_ela ignora ele e finge que nao ouviu nada\n4_ela acha que ele tem problemas mentais\n");
-
-                scanf("%d",&escolha);
-
-                if (escolha ==1){
-                    printf("por algum milagre do destino ela gosta da pessima piada e pede ele em namoro");
-                    return 0;
-                }
-                if (escolha == 2){
-                    printf("ela acha a cantada uma bosta e chama o irmao dela pra te dar uma surra");
-                    return 0;
-                }
-                if (escolha ==3){
-                    printf("ela ignora ele e apenas o olha com pena");
-                    return 0;
-                }
-
-                if (escolha ==4){
-                    printf("ela te acha maluco e chama a policia para te prender por assedio");
-                    return 0;
-                }
-
-            }
-        //CODIGO BRUNO 2
+        if (escolha == 2){
+            printf("rodrigo sai de finin constrangido");
+            return 0;
+        }
         if (escolha == 3){
-            printf("aqui onde_disse ela\rodrigo no senai\n\n escolha o que ela deve fazer:\n\n1_pisar no pe dele\n2_rir da cara dele\n3_da um soco nele\n4_da uma chance a ele\n");
-
-            scanf("%d",&escolha);
-
-            if (escolha == 1){
-                printf("ela pisa no pe de rodrigo, rodrigo sai rolando de dor eterna");
-                return 0;
-            }
-            if (escolha == 2){
-                printf("rodrigo sai de finin constrangido");
-                return 0;
-            }
-            if (escolha == 3){
-                printf("rodrigo perde um dente e desmaia");
-                return 0;
-            }
-            if (escolha == 4){
-                printf("rodrigo marca um encontro com sucesso curte pra parte 2");
-                return 0;
-            }
-
+            printf("rodrigo perde um dente e desmaia");
+            return 0;
         }
-        //CODIGO BRUNO 2
         if (escolha == 4){
-            printf("nao_disse ela\nrodrigo porqur voce e uma gata\n\n escolha o que ela deve fazer:\n\n1_chamar a policia\n2_olhar com raiva pra ele\n3_sai correndo\n4_figir que ele nao existe\n");
-
-            scanf("%d",&escolha);
-
-            if (escolha ==1){
-                printf("a policia leva rodrigo para prisao onde ele vivi feliz com latreu");
-                return 0;
-            }
-            if (escolha == 2){
-                printf("ela solta raio lazer fritando ele ate a morte");
-                return 0;
-            }
-            if (escolha ==3){
-                printf("ela sai correndo nunca mais sendo vista por niquem");
-                return 0;
-            }
-            if (escolha ==4){
-                printf("ela fica invisivel e nunca mais e vista");
-                return 0;
-            }
+            printf("rodrigo marca um encontro com sucesso curte pra parte 2");
+            return 0;
         }
+    }
+    //CODIGO BRUNO 2
+    if (escolha == 4){
+        printf("nao_disse ela\nrodrigo porqur voce e uma gata\n\n escolha o que ela deve fazer:\n\n1_chamar a policia\n2_olhar com raiva pra ele\n3_sai correndo\n4_figir que ele nao existe\n");
 
+        scanf("%d",&escolha);
+
+        if (escolha ==1){
+            printf("a policia leva rodrigo para prisao onde ele vivi feliz com latreu");
+            return 0;
+        }
+        if (escolha == 2){
+            printf("ela solta raio lazer fritando ele ate a morte");
+            return 0;
+        }
+        if (escolha ==3){
+            printf("ela sai correndo nunca mais sendo vista por niquem");
+            return 0;
+        }
+        if (escolha ==4){
+            printf("ela fica invisivel e nunca mais e vista");
+            return 0;
+        }
+    }
 }
 int codigoGabrielzin(){
     printf("Rodrigo escondeu da menina \no que acontece em seguida\n\n");
