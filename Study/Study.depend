@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1745273586 source:y:\programing\study\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1745274654 source:y:\programing\study\guess_the_number.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
