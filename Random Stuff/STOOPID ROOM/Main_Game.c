@@ -1,7 +1,15 @@
 #include <stdio.h>
 #include <unistd.h>
 #include <stdbool.h>
+/*
+    WIP
+    Novas salas
+    Randomização de codigo
+    Enigmas Off-Script
+    Reworking Languages
+    Achievements
 
+*/
 //Variables
     int code;
     bool gameOver = false;
