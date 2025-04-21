@@ -52,21 +52,21 @@ int codigoBruno(){
             scanf("%d",&escolha);
 
             if (escolha==1){
-                printf("\nele agarra ela sem ela querer\n");
+                printf("\nele agarra ela sem ela querer, ela mete um tapasso na nuca dele que manda ele pra cadeia\ngame over\n");
                 return 0;
             }
             if (escolha==2) {
-                printf("\nele troca uma ideia da hora com ela\n");
+                printf("\nele troca uma ideia da hora com ela\nAmbos se conhecem, vao no cinema, se casam e vao morar na irlanda com seus 2 filhos\nFinal feliz\n");
                 return 0;
             }
 
             if (escolha==3)  {
-                printf("\nele chama ela pra sair\n");
+                printf("\nele chama ela pra sair, ela aceita, porem ela decide o lugar\nAmbos acabam parando numa praia de nudismo\nVitoria??N sei\n");
                 return 0;
             }
 
             if (escolha==4) {
-                printf("\nela fala da sua 'beleza'\n");
+                printf("\nela fala da sua 'beleza'\nOu no caso, a falta dela, vira as costas, e vai embora\nGame Over\n");
                 return 0;
             }
 
