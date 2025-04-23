@@ -1,0 +1,33 @@
+#include <stdio.h>
+
+void multaCalc(int max_Speed, int user_Speed);
+
+int main()
+{
+    int mSpeed;
+    int uSpeed;
+
+    printf("Qual era a velociade Maxima da via?\n>> ");
+    scanf("%d", &mSpeed);
+
+    printf("Qual era a velociade do motorista?\n>> ");
+    scanf("%d", &uSpeed);
+    multaCalc(mSpeed, uSpeed);
+    return 0;
+}
+
+void multaCalc(int max_Speed, int user_Speed)
+{
+    if (max_Speed > user_Speed){
+        printf("Nao houve multa");
+    }
+    else if (user_Speed > max_Speed && user_Speed < max_Speed + (max_Speed*0.2)){
+        printf("Multa aplicada de RS%d", (user_Speed-max_Speed)*5);
+    }
+    else if (user_Speed > max_Speed + (max_Speed*0.2) && user_Speed < max_Speed + (max_Speed*0.5)){
+        printf("Multa aplicada de RS%d", (user_Speed-max_Speed)*20);
+    }
+    else if (user_Speed > max_Speed + (max_Speed*0.5)){
+        printf("Multa aplicada de RS%d", (user_Speed-max_Speed)*40);
+    }
+}
