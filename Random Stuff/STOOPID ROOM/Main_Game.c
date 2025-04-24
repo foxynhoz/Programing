@@ -39,6 +39,9 @@ int main()
                     scanf("%d", &choice);
                     if (choice == 1 && hasKey == true)  {
                         printf("\nA porta se abre, voce sai da sala.\n\nMas logo percebe que está no Brasil, e o Lula eh presidente.\nVoce ganhou o jogo, mas a que custo?\n\nFIM\n");
+                        printf("Aperte a tecla enter pra finalizar");
+                        int fim;
+                        scanf("%d", &fim);
                         gameOver = true;
                         return 0;
                     }
