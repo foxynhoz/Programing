@@ -14,8 +14,16 @@
 	<unistd.h>
 	<stdbool.h>
 
-1745278508 source:y:\programing\random stuff\stoopid room\main_game.c
+1745950693 source:y:\programing\random stuff\stoopid room\main_game.c
 	<stdio.h>
 	<unistd.h>
 	<stdbool.h>
+
+1745951029 source:y:\programing\random stuff\stoopid room\menu.c
+	<stdio.h>
+	<conio.h>
+
+1745950666 source:y:\programing\random stuff\stoopid room\main_game_functions.c
+	<stdio.h>
+	<stdlib.h>
 

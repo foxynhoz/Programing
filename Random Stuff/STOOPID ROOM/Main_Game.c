@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <unistd.h>
 #include <stdbool.h>
+
+
 /*
     WIP
     Novas salas
@@ -10,6 +12,9 @@
     Achievements
 
 */
+extern void menu();
+extern void RoomSide();
+
 //Variables
     int code;
     bool gameOver = false;
@@ -21,7 +26,7 @@
 
 int main()
 {
-
+    menu();
     printf("+++++STOOPID ROOM+++\n++++++THE GAME++++++\n\nDigite o numero correspondente a opcao desejada para executar a ação\n\n");
         sleep(2);
 
