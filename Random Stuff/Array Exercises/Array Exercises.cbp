@@ -31,7 +31,28 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="main.c">
+		<Unit filename="Exercicio 1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Exercicio 2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Exercicio 3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Exercicio 4.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Exercicio 5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Exercicio 6.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Exercicio 7.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Exercicio 8.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions>

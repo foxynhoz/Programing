@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1746129700 source:y:\programing\console_gui_tests\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1746129860 source:y:\programing\console_gui_tests\exercicio 2.c
+	<stdio.h>
+
+1746130620 source:y:\programing\random stuff\array exercises\exercicio 2.c
+	<stdio.h>
+
+1746134699 source:y:\programing\random stuff\array exercises\exercicio 1.c
+	<stdio.h>
+	<stdlib.h>
+
+1746131005 source:y:\programing\random stuff\array exercises\exercicio 4.c
+
+1746133297 source:y:\programing\random stuff\array exercises\pending - exercicio 3.c
+	<stdio.h>
+
+1746131885 source:y:\programing\random stuff\array exercises\exercicio 5.c
+	<stdio.h>
+
+1746133297 source:y:\programing\random stuff\array exercises\exercicio 6.c
+	<stdio.h>
+
+1746134686 source:y:\programing\random stuff\array exercises\exercicio 7.c
+	<stdio.h>
+	<stdbool.h>
+
+1746133850 source:y:\programing\random stuff\array exercises\exercicio 3.c
+
+1746134111 source:y:\programing\random stuff\array exercises\exercicio 8.c
+
